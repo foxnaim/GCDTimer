@@ -1,3 +1,8 @@
+> **foxnaim** · Протестированный таймер на основе GCD для Swift
+>
+> Готовая основа под клиентский проект. Стек: Swift.
+> Лицензия MIT сохранена, история коммитов и авторы оригинального проекта сохранены.
+
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 
 ### GCDTimer ###
